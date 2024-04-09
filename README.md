@@ -1,4 +1,4 @@
-Hangman Game Predictor Model Report
+Hangman Game Predictor Model 
 
 Abstract:
 Utilized BERT (Bidirectional Encoder Representations from Transformers) for predicting masked letters in the Hangman game. Objective was to effectively predict hidden letters.
